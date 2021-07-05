@@ -4,5 +4,5 @@ a|             a |
 ------------ | ------------
 Async.js |
 express.js |
-pupeteer |
+pupeteer |  ![Github homepage](https://github.com/puppeteer/puppeteer/)|
 
