@@ -1,8 +1,8 @@
 **Packages**
 ====
-a|             a |
+package|             github page |
 ------------ | ------------
 Async.js |
-express.js |
-pupeteer |  ![Github homepage](https://github.com/puppeteer/puppeteer/)|
+express.js | ![github homepage](https://github.com/expressjs/express)|
+pupeteer |  ![github homepage](https://github.com/puppeteer/puppeteer/)|
 
